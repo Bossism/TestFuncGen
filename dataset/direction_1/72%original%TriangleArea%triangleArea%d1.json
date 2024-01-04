@@ -1,0 +1,1 @@
+{"focal_method": "triangleArea", "class_name": "TriangleArea", "information": "package original;\n\nclass TriangleArea{\npublic static Double triangleArea(int a, int h) {\n        return (a * h) / 2.0;\n    }\n\n}"}

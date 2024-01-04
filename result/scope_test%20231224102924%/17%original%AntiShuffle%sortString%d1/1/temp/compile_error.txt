@@ -1,0 +1,13 @@
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231224102924%/17%original%AntiShuffle%sortString%d1/1/temp/AntiShuffle_17_1Test.java:15: error: sortString(String) has private access in AntiShuffle
+        String actualOutput = AntiShuffle.sortString(input);
+                                         ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231224102924%/17%original%AntiShuffle%sortString%d1/1/temp/AntiShuffle_17_1Test.java:25: error: sortString(String) has private access in AntiShuffle
+        String actualOutput = AntiShuffle.sortString(input);
+                                         ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231224102924%/17%original%AntiShuffle%sortString%d1/1/temp/AntiShuffle_17_1Test.java:35: error: sortString(String) has private access in AntiShuffle
+        String actualOutput = AntiShuffle.sortString(input);
+                                         ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231224102924%/17%original%AntiShuffle%sortString%d1/1/temp/AntiShuffle_17_1Test.java:45: error: sortString(String) has private access in AntiShuffle
+        String actualOutput = AntiShuffle.sortString(input);
+                                         ^
+4 errors

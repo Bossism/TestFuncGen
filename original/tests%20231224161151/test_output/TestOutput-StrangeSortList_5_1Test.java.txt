@@ -1,0 +1,45 @@
+
+Failures (2):
+  JUnit Vintage:StrangeSortList_5_1Test:testStrangeSortList
+    MethodSource [className = 'original.StrangeSortList_5_1Test', methodName = 'testStrangeSortList', methodParameterTypes = '']
+    => java.lang.AssertionError: expected:<[1, 3, 5]> but was:<[1, 5, 3]>
+       org.junit.Assert.fail(Assert.java:89)
+       org.junit.Assert.failNotEquals(Assert.java:835)
+       org.junit.Assert.assertEquals(Assert.java:120)
+       org.junit.Assert.assertEquals(Assert.java:146)
+       original.StrangeSortList_5_1Test.testStrangeSortList(StrangeSortList_5_1Test.java:19)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+       java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+       java.base/java.lang.reflect.Method.invoke(Method.java:566)
+       org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+       [...]
+  JUnit Vintage:StrangeSortList_5_1Test:testStrangeSortListWithAllIntegers
+    MethodSource [className = 'original.StrangeSortList_5_1Test', methodName = 'testStrangeSortListWithAllIntegers', methodParameterTypes = '']
+    => java.lang.AssertionError: expected:<[1, 3, 5]> but was:<[1, 5, 3]>
+       org.junit.Assert.fail(Assert.java:89)
+       org.junit.Assert.failNotEquals(Assert.java:835)
+       org.junit.Assert.assertEquals(Assert.java:120)
+       org.junit.Assert.assertEquals(Assert.java:146)
+       original.StrangeSortList_5_1Test.testStrangeSortListWithAllIntegers(StrangeSortList_5_1Test.java:49)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+       java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+       java.base/java.lang.reflect.Method.invoke(Method.java:566)
+       org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+       [...]
+
+Test run finished after 47 ms
+[         4 containers found      ]
+[         0 containers skipped    ]
+[         4 containers started    ]
+[         0 containers aborted    ]
+[         4 containers successful ]
+[         0 containers failed     ]
+[         4 tests found           ]
+[         0 tests skipped         ]
+[         4 tests started         ]
+[         0 tests aborted         ]
+[         2 tests successful      ]
+[         2 tests failed          ]
+

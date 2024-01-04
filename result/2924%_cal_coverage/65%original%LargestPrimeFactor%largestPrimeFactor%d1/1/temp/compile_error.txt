@@ -1,0 +1,5 @@
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231224102924%/65%original%LargestPrimeFactor%largestPrimeFactor%d1/1/temp/LargestPrimeFactor_65_1Test.java:19: error: incompatible types: possible lossy conversion from long to int
+        long result3 = LargestPrimeFactor.largestPrimeFactor(600851475143L);
+                                                             ^
+Note: Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+1 error

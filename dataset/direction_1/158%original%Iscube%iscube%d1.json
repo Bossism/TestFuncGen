@@ -1,0 +1,1 @@
+{"focal_method": "iscube", "class_name": "Iscube", "information": "package original;\n\nclass Iscube{\npublic static Boolean iscube(int a) {\n        if (a < 0) {\n            return iscube(-a);\n        }\n        int i = 0;\n        while (i * i * i < a) {\n            i++;\n        }\n        return i * i * i == a;\n    }\n\n}"}

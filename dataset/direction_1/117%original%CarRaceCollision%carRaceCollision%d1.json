@@ -1,0 +1,1 @@
+{"focal_method": "carRaceCollision", "class_name": "CarRaceCollision", "information": "package original;\n\nclass CarRaceCollision{\npublic static int carRaceCollision(int n) {\n        int count = 0;\n        for (int i = 0; i < n; i++) {\n            for (int j = 0; j < n; j++) {\n                count++;\n            }\n        }\n        return count;\n    }\n\n}"}

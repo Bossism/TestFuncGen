@@ -1,0 +1,1 @@
+{"focal_method": "truncateNumber", "class_name": "TruncateNumber", "information": "package original;\n\nclass TruncateNumber{\npublic static Double truncateNumber(Double number) {\n        // return number - Math.floor(number);\n        return Math.round((number - Math.floor(number)) * 1000.0) / 1000.0;\n    }\n\n}"}

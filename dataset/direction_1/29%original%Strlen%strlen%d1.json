@@ -1,0 +1,1 @@
+{"focal_method": "strlen", "class_name": "Strlen", "information": "package original;\n\nclass Strlen{\npublic static int strlen(String string) {\n        return string.length();\n    }\n\n}"}

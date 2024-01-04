@@ -1,0 +1,87 @@
+
+Failures (5):
+  JUnit Vintage:GenerateIntegers_73_1Test:testGenerateIntegersWithUpperValueLessThan2
+    MethodSource [className = 'original.GenerateIntegers_73_1Test', methodName = 'testGenerateIntegersWithUpperValueLessThan2', methodParameterTypes = '']
+    => java.lang.AssertionError: expected:<[]> but was:<[2]>
+       org.junit.Assert.fail(Assert.java:89)
+       org.junit.Assert.failNotEquals(Assert.java:835)
+       org.junit.Assert.assertEquals(Assert.java:120)
+       org.junit.Assert.assertEquals(Assert.java:146)
+       original.GenerateIntegers_73_1Test.testGenerateIntegersWithUpperValueLessThan2(GenerateIntegers_73_1Test.java:42)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+       java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+       java.base/java.lang.reflect.Method.invoke(Method.java:566)
+       org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+       [...]
+  JUnit Vintage:GenerateIntegers_73_1Test:testGenerateIntegersWithReversedValues
+    MethodSource [className = 'original.GenerateIntegers_73_1Test', methodName = 'testGenerateIntegersWithReversedValues', methodParameterTypes = '']
+    => java.lang.AssertionError: expected:<[2, 4, 6, 8]> but was:<[4, 6]>
+       org.junit.Assert.fail(Assert.java:89)
+       org.junit.Assert.failNotEquals(Assert.java:835)
+       org.junit.Assert.assertEquals(Assert.java:120)
+       org.junit.Assert.assertEquals(Assert.java:146)
+       original.GenerateIntegers_73_1Test.testGenerateIntegersWithReversedValues(GenerateIntegers_73_1Test.java:28)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+       java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+       java.base/java.lang.reflect.Method.invoke(Method.java:566)
+       org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+       [...]
+  JUnit Vintage:GenerateIntegers_73_1Test:testGenerateIntegersWithSameValues
+    MethodSource [className = 'original.GenerateIntegers_73_1Test', methodName = 'testGenerateIntegersWithSameValues', methodParameterTypes = '']
+    => java.lang.AssertionError: expected:<[2, 4, 6, 8]> but was:<[]>
+       org.junit.Assert.fail(Assert.java:89)
+       org.junit.Assert.failNotEquals(Assert.java:835)
+       org.junit.Assert.assertEquals(Assert.java:120)
+       org.junit.Assert.assertEquals(Assert.java:146)
+       original.GenerateIntegers_73_1Test.testGenerateIntegersWithSameValues(GenerateIntegers_73_1Test.java:21)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+       java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+       java.base/java.lang.reflect.Method.invoke(Method.java:566)
+       org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+       [...]
+  JUnit Vintage:GenerateIntegers_73_1Test:testGenerateIntegersWithLowerValueGreaterThan8
+    MethodSource [className = 'original.GenerateIntegers_73_1Test', methodName = 'testGenerateIntegersWithLowerValueGreaterThan8', methodParameterTypes = '']
+    => java.lang.AssertionError: expected:<[]> but was:<[8]>
+       org.junit.Assert.fail(Assert.java:89)
+       org.junit.Assert.failNotEquals(Assert.java:835)
+       org.junit.Assert.assertEquals(Assert.java:120)
+       org.junit.Assert.assertEquals(Assert.java:146)
+       original.GenerateIntegers_73_1Test.testGenerateIntegersWithLowerValueGreaterThan8(GenerateIntegers_73_1Test.java:35)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+       java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+       java.base/java.lang.reflect.Method.invoke(Method.java:566)
+       org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+       [...]
+  JUnit Vintage:GenerateIntegers_73_1Test:testGenerateIntegers
+    MethodSource [className = 'original.GenerateIntegers_73_1Test', methodName = 'testGenerateIntegers', methodParameterTypes = '']
+    => java.lang.AssertionError: expected:<[2, 4, 6, 8]> but was:<[4, 6]>
+       org.junit.Assert.fail(Assert.java:89)
+       org.junit.Assert.failNotEquals(Assert.java:835)
+       org.junit.Assert.assertEquals(Assert.java:120)
+       org.junit.Assert.assertEquals(Assert.java:146)
+       original.GenerateIntegers_73_1Test.testGenerateIntegers(GenerateIntegers_73_1Test.java:14)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+       java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+       java.base/java.lang.reflect.Method.invoke(Method.java:566)
+       org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+       [...]
+
+Test run finished after 50 ms
+[         4 containers found      ]
+[         0 containers skipped    ]
+[         4 containers started    ]
+[         0 containers aborted    ]
+[         4 containers successful ]
+[         0 containers failed     ]
+[         5 tests found           ]
+[         0 tests skipped         ]
+[         5 tests started         ]
+[         0 tests aborted         ]
+[         0 tests successful      ]
+[         5 tests failed          ]
+

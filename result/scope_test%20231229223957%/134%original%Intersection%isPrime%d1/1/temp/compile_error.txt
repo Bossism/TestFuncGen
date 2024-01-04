@@ -1,0 +1,301 @@
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:13: error: isPrime(int) has private access in Intersection
+        assertTrue(Intersection.isPrime(2));
+                               ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:14: error: isPrime(int) has private access in Intersection
+        assertTrue(Intersection.isPrime(3));
+                               ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:15: error: isPrime(int) has private access in Intersection
+        assertTrue(Intersection.isPrime(5));
+                               ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:16: error: isPrime(int) has private access in Intersection
+        assertTrue(Intersection.isPrime(7));
+                               ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:17: error: isPrime(int) has private access in Intersection
+        assertTrue(Intersection.isPrime(11));
+                               ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:18: error: isPrime(int) has private access in Intersection
+        assertTrue(Intersection.isPrime(13));
+                               ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:19: error: isPrime(int) has private access in Intersection
+        assertTrue(Intersection.isPrime(17));
+                               ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:20: error: isPrime(int) has private access in Intersection
+        assertTrue(Intersection.isPrime(19));
+                               ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:21: error: isPrime(int) has private access in Intersection
+        assertTrue(Intersection.isPrime(23));
+                               ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:22: error: isPrime(int) has private access in Intersection
+        assertTrue(Intersection.isPrime(29));
+                               ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:23: error: isPrime(int) has private access in Intersection
+        assertTrue(Intersection.isPrime(31));
+                               ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:24: error: isPrime(int) has private access in Intersection
+        assertTrue(Intersection.isPrime(37));
+                               ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:25: error: isPrime(int) has private access in Intersection
+        assertTrue(Intersection.isPrime(41));
+                               ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:26: error: isPrime(int) has private access in Intersection
+        assertTrue(Intersection.isPrime(43));
+                               ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:27: error: isPrime(int) has private access in Intersection
+        assertTrue(Intersection.isPrime(47));
+                               ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:28: error: isPrime(int) has private access in Intersection
+        assertTrue(Intersection.isPrime(53));
+                               ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:29: error: isPrime(int) has private access in Intersection
+        assertTrue(Intersection.isPrime(59));
+                               ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:30: error: isPrime(int) has private access in Intersection
+        assertTrue(Intersection.isPrime(61));
+                               ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:31: error: isPrime(int) has private access in Intersection
+        assertTrue(Intersection.isPrime(67));
+                               ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:32: error: isPrime(int) has private access in Intersection
+        assertTrue(Intersection.isPrime(71));
+                               ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:33: error: isPrime(int) has private access in Intersection
+        assertTrue(Intersection.isPrime(73));
+                               ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:34: error: isPrime(int) has private access in Intersection
+        assertTrue(Intersection.isPrime(79));
+                               ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:35: error: isPrime(int) has private access in Intersection
+        assertTrue(Intersection.isPrime(83));
+                               ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:36: error: isPrime(int) has private access in Intersection
+        assertTrue(Intersection.isPrime(89));
+                               ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:37: error: isPrime(int) has private access in Intersection
+        assertTrue(Intersection.isPrime(97));
+                               ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:39: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(0));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:40: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(1));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:41: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(4));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:42: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(6));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:43: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(8));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:44: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(9));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:45: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(10));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:46: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(12));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:47: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(14));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:48: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(15));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:49: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(16));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:50: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(18));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:51: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(20));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:52: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(21));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:53: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(22));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:54: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(24));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:55: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(25));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:56: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(26));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:57: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(27));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:58: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(28));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:59: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(30));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:60: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(32));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:61: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(33));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:62: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(34));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:63: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(35));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:64: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(36));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:65: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(38));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:66: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(39));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:67: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(40));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:68: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(42));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:69: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(44));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:70: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(45));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:71: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(46));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:72: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(48));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:73: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(49));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:74: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(50));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:75: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(51));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:76: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(52));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:77: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(54));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:78: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(55));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:79: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(56));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:80: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(57));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:81: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(58));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:82: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(60));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:83: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(62));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:84: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(63));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:85: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(64));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:86: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(65));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:87: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(66));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:88: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(68));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:89: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(69));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:90: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(70));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:91: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(72));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:92: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(74));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:93: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(75));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:94: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(76));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:95: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(77));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:96: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(78));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:97: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(80));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:98: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(81));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:99: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(82));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:100: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(84));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:101: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(85));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:102: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(86));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:103: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(87));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:104: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(88));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:105: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(90));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:106: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(91));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:107: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(92));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:108: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(93));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:109: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(94));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:110: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(95));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:111: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(96));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:112: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(98));
+                                ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/134%original%Intersection%isPrime%d1/1/temp/Intersection_134_1Test.java:113: error: isPrime(int) has private access in Intersection
+        assertFalse(Intersection.isPrime(99));
+                                ^
+100 errors

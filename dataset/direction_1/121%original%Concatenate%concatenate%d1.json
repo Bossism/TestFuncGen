@@ -1,0 +1,1 @@
+{"focal_method": "concatenate", "class_name": "Concatenate", "information": "package original;\n\nimport java.util.List;\nclass Concatenate{\npublic static String concatenate(List<Object> strings) {\n        String result = \"\";\n        for (Object string : strings) {\n            result += string.toString();\n        }\n        return result;\n    }\n\n}"}

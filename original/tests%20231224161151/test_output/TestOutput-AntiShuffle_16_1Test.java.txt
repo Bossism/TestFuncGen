@@ -1,0 +1,45 @@
+
+Failures (2):
+  JUnit Vintage:AntiShuffle_16_1Test:testAntiShuffle
+    MethodSource [className = 'original.AntiShuffle_16_1Test', methodName = 'testAntiShuffle', methodParameterTypes = '']
+    => org.junit.ComparisonFailure: expected:<ehllo dl[ro]w> but was:<ehllo dl[or]w>
+       org.junit.Assert.assertEquals(Assert.java:117)
+       org.junit.Assert.assertEquals(Assert.java:146)
+       original.AntiShuffle_16_1Test.testAntiShuffle(AntiShuffle_16_1Test.java:16)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+       java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+       java.base/java.lang.reflect.Method.invoke(Method.java:566)
+       org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+       org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+       org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+       [...]
+  JUnit Vintage:AntiShuffle_16_1Test:testAntiShuffleWithMultipleWords
+    MethodSource [className = 'original.AntiShuffle_16_1Test', methodName = 'testAntiShuffleWithMultipleWords', methodParameterTypes = '']
+    => org.junit.ComparisonFailure: expected:<ehllo dl[row woh era uo]y> but was:<ehllo dl[orw how aer ou]y>
+       org.junit.Assert.assertEquals(Assert.java:117)
+       org.junit.Assert.assertEquals(Assert.java:146)
+       original.AntiShuffle_16_1Test.testAntiShuffleWithMultipleWords(AntiShuffle_16_1Test.java:46)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+       java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+       java.base/java.lang.reflect.Method.invoke(Method.java:566)
+       org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+       org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+       org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+       [...]
+
+Test run finished after 41 ms
+[         4 containers found      ]
+[         0 containers skipped    ]
+[         4 containers started    ]
+[         0 containers aborted    ]
+[         4 containers successful ]
+[         0 containers failed     ]
+[         4 tests found           ]
+[         0 tests skipped         ]
+[         4 tests started         ]
+[         0 tests aborted         ]
+[         2 tests successful      ]
+[         2 tests failed          ]
+

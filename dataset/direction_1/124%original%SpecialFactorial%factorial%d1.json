@@ -1,0 +1,1 @@
+{"focal_method": "factorial", "class_name": "SpecialFactorial", "information": "package original;\n\nclass SpecialFactorial{\nprivate static long factorial(int n) {\n        long res = 1;\n        for (int i = 1; i <= n; i++) {\n            res *= i;\n        }\n        return res;\n    }\npublic static long specialFactorial(int n)\n}"}

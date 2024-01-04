@@ -1,0 +1,19 @@
+/home/minbao/PycharmProject/ChatUniTest-main/original/tests%20231230024431/test_cases/F_97_1Test.java:12: error: factorial(int) has private access in F
+        assertEquals(1, F.factorial(0));
+                         ^
+/home/minbao/PycharmProject/ChatUniTest-main/original/tests%20231230024431/test_cases/F_97_1Test.java:13: error: factorial(int) has private access in F
+        assertEquals(1, F.factorial(1));
+                         ^
+/home/minbao/PycharmProject/ChatUniTest-main/original/tests%20231230024431/test_cases/F_97_1Test.java:14: error: factorial(int) has private access in F
+        assertEquals(2, F.factorial(2));
+                         ^
+/home/minbao/PycharmProject/ChatUniTest-main/original/tests%20231230024431/test_cases/F_97_1Test.java:15: error: factorial(int) has private access in F
+        assertEquals(6, F.factorial(3));
+                         ^
+/home/minbao/PycharmProject/ChatUniTest-main/original/tests%20231230024431/test_cases/F_97_1Test.java:16: error: factorial(int) has private access in F
+        assertEquals(24, F.factorial(4));
+                          ^
+/home/minbao/PycharmProject/ChatUniTest-main/original/tests%20231230024431/test_cases/F_97_1Test.java:17: error: factorial(int) has private access in F
+        assertEquals(120, F.factorial(5));
+                           ^
+6 errors

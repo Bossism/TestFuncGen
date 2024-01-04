@@ -1,0 +1,59 @@
+
+Failures (3):
+  JUnit Vintage:FixSpaces_26_1Test:testFixSpaces_StartsWithSpace
+    MethodSource [className = 'original.FixSpaces_26_1Test', methodName = 'testFixSpaces_StartsWithSpace', methodParameterTypes = '']
+    => org.junit.ComparisonFailure: expected:<[-]a_b_c_d> but was:<[_]a_b_c_d>
+       org.junit.Assert.assertEquals(Assert.java:117)
+       org.junit.Assert.assertEquals(Assert.java:146)
+       original.FixSpaces_26_1Test.testFixSpaces_StartsWithSpace(FixSpaces_26_1Test.java:45)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+       java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+       java.base/java.lang.reflect.Method.invoke(Method.java:566)
+       org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+       org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+       org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+       [...]
+  JUnit Vintage:FixSpaces_26_1Test:testFixSpaces_EndsWithSpace
+    MethodSource [className = 'original.FixSpaces_26_1Test', methodName = 'testFixSpaces_EndsWithSpace', methodParameterTypes = '']
+    => org.junit.ComparisonFailure: expected:<a_b_c_d[]> but was:<a_b_c_d[_]>
+       org.junit.Assert.assertEquals(Assert.java:117)
+       org.junit.Assert.assertEquals(Assert.java:146)
+       original.FixSpaces_26_1Test.testFixSpaces_EndsWithSpace(FixSpaces_26_1Test.java:53)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+       java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+       java.base/java.lang.reflect.Method.invoke(Method.java:566)
+       org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+       org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+       org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+       [...]
+  JUnit Vintage:FixSpaces_26_1Test:testFixSpaces
+    MethodSource [className = 'original.FixSpaces_26_1Test', methodName = 'testFixSpaces', methodParameterTypes = '']
+    => org.junit.ComparisonFailure: expected:<a[-]b-c-d> but was:<a[__]b-c-d>
+       org.junit.Assert.assertEquals(Assert.java:117)
+       org.junit.Assert.assertEquals(Assert.java:146)
+       original.FixSpaces_26_1Test.testFixSpaces(FixSpaces_26_1Test.java:13)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+       java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+       java.base/java.lang.reflect.Method.invoke(Method.java:566)
+       org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+       org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+       org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+       [...]
+
+Test run finished after 71 ms
+[         4 containers found      ]
+[         0 containers skipped    ]
+[         4 containers started    ]
+[         0 containers aborted    ]
+[         4 containers successful ]
+[         0 containers failed     ]
+[         6 tests found           ]
+[         0 tests skipped         ]
+[         6 tests started         ]
+[         0 tests aborted         ]
+[         3 tests successful      ]
+[         3 tests failed          ]
+

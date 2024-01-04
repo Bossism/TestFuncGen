@@ -1,0 +1,1 @@
+{"focal_method": "isPrime", "class_name": "IsPrime", "information": "package original;\n\nclass IsPrime{\npublic static Boolean isPrime(int n) {\n        if (n <= 1) {\n            return false;\n        }\n        for (int i = 2; i < n; i++) {\n            if (n % i == 0) {\n                return false;\n            }\n        }\n        return true;\n    }\n\n}"}

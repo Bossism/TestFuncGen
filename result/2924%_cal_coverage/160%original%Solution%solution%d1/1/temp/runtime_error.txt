@@ -1,0 +1,45 @@
+
+Failures (2):
+  JUnit Vintage:Solution_160_1Test:testSolutionWithNegativeNumbers
+    MethodSource [className = 'original.Solution_160_1Test', methodName = 'testSolutionWithNegativeNumbers', methodParameterTypes = '']
+    => java.lang.AssertionError: expected:<-25> but was:<0>
+       org.junit.Assert.fail(Assert.java:89)
+       org.junit.Assert.failNotEquals(Assert.java:835)
+       org.junit.Assert.assertEquals(Assert.java:647)
+       org.junit.Assert.assertEquals(Assert.java:633)
+       original.Solution_160_1Test.testSolutionWithNegativeNumbers(Solution_160_1Test.java:43)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+       java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+       java.base/java.lang.reflect.Method.invoke(Method.java:566)
+       org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+       [...]
+  JUnit Vintage:Solution_160_1Test:testSolutionWithNoEvenIndices
+    MethodSource [className = 'original.Solution_160_1Test', methodName = 'testSolutionWithNoEvenIndices', methodParameterTypes = '']
+    => java.lang.AssertionError: expected:<0> but was:<15>
+       org.junit.Assert.fail(Assert.java:89)
+       org.junit.Assert.failNotEquals(Assert.java:835)
+       org.junit.Assert.assertEquals(Assert.java:647)
+       org.junit.Assert.assertEquals(Assert.java:633)
+       original.Solution_160_1Test.testSolutionWithNoEvenIndices(Solution_160_1Test.java:36)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+       java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+       java.base/java.lang.reflect.Method.invoke(Method.java:566)
+       org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+       [...]
+
+Test run finished after 48 ms
+[         4 containers found      ]
+[         0 containers skipped    ]
+[         4 containers started    ]
+[         0 containers aborted    ]
+[         4 containers successful ]
+[         0 containers failed     ]
+[         5 tests found           ]
+[         0 tests skipped         ]
+[         5 tests started         ]
+[         0 tests aborted         ]
+[         3 tests successful      ]
+[         2 tests failed          ]
+

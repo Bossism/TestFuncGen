@@ -1,0 +1,101 @@
+
+Failures (6):
+  JUnit Vintage:CheckIfLastCharIsALetter_4_1Test:testCheckIfLastCharIsALetter_wordWithNonLetterAndSpace
+    MethodSource [className = 'original.CheckIfLastCharIsALetter_4_1Test', methodName = 'testCheckIfLastCharIsALetter_wordWithNonLetterAndSpace', methodParameterTypes = '']
+    => java.lang.AssertionError
+       org.junit.Assert.fail(Assert.java:87)
+       org.junit.Assert.assertTrue(Assert.java:42)
+       org.junit.Assert.assertTrue(Assert.java:53)
+       original.CheckIfLastCharIsALetter_4_1Test.testCheckIfLastCharIsALetter_wordWithNonLetterAndSpace(CheckIfLastCharIsALetter_4_1Test.java:50)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+       java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+       java.base/java.lang.reflect.Method.invoke(Method.java:566)
+       org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+       org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+       [...]
+  JUnit Vintage:CheckIfLastCharIsALetter_4_1Test:testCheckIfLastCharIsALetter_wordWithLetterAndSpaceAndNonLetter
+    MethodSource [className = 'original.CheckIfLastCharIsALetter_4_1Test', methodName = 'testCheckIfLastCharIsALetter_wordWithLetterAndSpaceAndNonLetter', methodParameterTypes = '']
+    => java.lang.AssertionError
+       org.junit.Assert.fail(Assert.java:87)
+       org.junit.Assert.assertTrue(Assert.java:42)
+       org.junit.Assert.assertTrue(Assert.java:53)
+       original.CheckIfLastCharIsALetter_4_1Test.testCheckIfLastCharIsALetter_wordWithLetterAndSpaceAndNonLetter(CheckIfLastCharIsALetter_4_1Test.java:60)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+       java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+       java.base/java.lang.reflect.Method.invoke(Method.java:566)
+       org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+       org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+       [...]
+  JUnit Vintage:CheckIfLastCharIsALetter_4_1Test:testCheckIfLastCharIsALetter_wordWithLetterAndSpaceAndNonLetterAndSpace
+    MethodSource [className = 'original.CheckIfLastCharIsALetter_4_1Test', methodName = 'testCheckIfLastCharIsALetter_wordWithLetterAndSpaceAndNonLetterAndSpace', methodParameterTypes = '']
+    => java.lang.AssertionError
+       org.junit.Assert.fail(Assert.java:87)
+       org.junit.Assert.assertTrue(Assert.java:42)
+       org.junit.Assert.assertTrue(Assert.java:53)
+       original.CheckIfLastCharIsALetter_4_1Test.testCheckIfLastCharIsALetter_wordWithLetterAndSpaceAndNonLetterAndSpace(CheckIfLastCharIsALetter_4_1Test.java:70)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+       java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+       java.base/java.lang.reflect.Method.invoke(Method.java:566)
+       org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+       org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+       [...]
+  JUnit Vintage:CheckIfLastCharIsALetter_4_1Test:testCheckIfLastCharIsALetter_singleLetterWithSpace
+    MethodSource [className = 'original.CheckIfLastCharIsALetter_4_1Test', methodName = 'testCheckIfLastCharIsALetter_singleLetterWithSpace', methodParameterTypes = '']
+    => java.lang.AssertionError
+       org.junit.Assert.fail(Assert.java:87)
+       org.junit.Assert.assertTrue(Assert.java:42)
+       org.junit.Assert.assertTrue(Assert.java:53)
+       original.CheckIfLastCharIsALetter_4_1Test.testCheckIfLastCharIsALetter_singleLetterWithSpace(CheckIfLastCharIsALetter_4_1Test.java:25)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+       java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+       java.base/java.lang.reflect.Method.invoke(Method.java:566)
+       org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+       org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+       [...]
+  JUnit Vintage:CheckIfLastCharIsALetter_4_1Test:testCheckIfLastCharIsALetter_wordWithNonLetter
+    MethodSource [className = 'original.CheckIfLastCharIsALetter_4_1Test', methodName = 'testCheckIfLastCharIsALetter_wordWithNonLetter', methodParameterTypes = '']
+    => java.lang.AssertionError
+       org.junit.Assert.fail(Assert.java:87)
+       org.junit.Assert.assertTrue(Assert.java:42)
+       org.junit.Assert.assertTrue(Assert.java:53)
+       original.CheckIfLastCharIsALetter_4_1Test.testCheckIfLastCharIsALetter_wordWithNonLetter(CheckIfLastCharIsALetter_4_1Test.java:40)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+       java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+       java.base/java.lang.reflect.Method.invoke(Method.java:566)
+       org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+       org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+       [...]
+  JUnit Vintage:CheckIfLastCharIsALetter_4_1Test:testCheckIfLastCharIsALetter_wordWithLetterAndSpace
+    MethodSource [className = 'original.CheckIfLastCharIsALetter_4_1Test', methodName = 'testCheckIfLastCharIsALetter_wordWithLetterAndSpace', methodParameterTypes = '']
+    => java.lang.AssertionError
+       org.junit.Assert.fail(Assert.java:87)
+       org.junit.Assert.assertTrue(Assert.java:42)
+       org.junit.Assert.assertTrue(Assert.java:53)
+       original.CheckIfLastCharIsALetter_4_1Test.testCheckIfLastCharIsALetter_wordWithLetterAndSpace(CheckIfLastCharIsALetter_4_1Test.java:45)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+       java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+       java.base/java.lang.reflect.Method.invoke(Method.java:566)
+       org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+       org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+       [...]
+
+Test run finished after 64 ms
+[         4 containers found      ]
+[         0 containers skipped    ]
+[         4 containers started    ]
+[         0 containers aborted    ]
+[         4 containers successful ]
+[         0 containers failed     ]
+[        13 tests found           ]
+[         0 tests skipped         ]
+[        13 tests started         ]
+[         0 tests aborted         ]
+[         7 tests successful      ]
+[         6 tests failed          ]
+

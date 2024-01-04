@@ -1,0 +1,1 @@
+{"c_deps": {}, "m_deps": {}, "full_fm": "package original;\n\n\nclass IsEqualToSumEven{\npublic static Boolean isEqualToSumEven(int n) {\n        if (n < 8) {\n            return false;\n        }\n        return n % 2 == 0;\n    }\n}", "focal_method": "public static Boolean isEqualToSumEven(int n)", "class_name": "IsEqualToSumEven"}

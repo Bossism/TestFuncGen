@@ -1,0 +1,13 @@
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/124%original%SpecialFactorial%factorial%d1/1/temp/SpecialFactorial_124_1Test.java:13: error: factorial(int) has private access in SpecialFactorial
+        long result1 = SpecialFactorial.factorial(n1);
+                                       ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/124%original%SpecialFactorial%factorial%d1/1/temp/SpecialFactorial_124_1Test.java:19: error: factorial(int) has private access in SpecialFactorial
+        long result2 = SpecialFactorial.factorial(n2);
+                                       ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/124%original%SpecialFactorial%factorial%d1/1/temp/SpecialFactorial_124_1Test.java:25: error: factorial(int) has private access in SpecialFactorial
+        long result3 = SpecialFactorial.factorial(n3);
+                                       ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/124%original%SpecialFactorial%factorial%d1/1/temp/SpecialFactorial_124_1Test.java:31: error: factorial(int) has private access in SpecialFactorial
+        long result4 = SpecialFactorial.factorial(n4);
+                                       ^
+4 errors

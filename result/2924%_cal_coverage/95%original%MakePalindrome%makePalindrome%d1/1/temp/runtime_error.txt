@@ -1,0 +1,59 @@
+
+Failures (3):
+  JUnit Vintage:MakePalindrome_95_1Test:testMakePalindrome_evenLengthString
+    MethodSource [className = 'original.MakePalindrome_95_1Test', methodName = 'testMakePalindrome_evenLengthString', methodParameterTypes = '']
+    => org.junit.ComparisonFailure: expected:<abcd[d]cba> but was:<abcd[]cba>
+       org.junit.Assert.assertEquals(Assert.java:117)
+       org.junit.Assert.assertEquals(Assert.java:146)
+       original.MakePalindrome_95_1Test.testMakePalindrome_evenLengthString(MakePalindrome_95_1Test.java:23)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+       java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+       java.base/java.lang.reflect.Method.invoke(Method.java:566)
+       org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+       org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+       org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+       [...]
+  JUnit Vintage:MakePalindrome_95_1Test:testMakePalindrome_noPalindrome
+    MethodSource [className = 'original.MakePalindrome_95_1Test', methodName = 'testMakePalindrome_noPalindrome', methodParameterTypes = '']
+    => java.lang.AssertionError: expected null, but was:<abcdefedcba>
+       org.junit.Assert.fail(Assert.java:89)
+       org.junit.Assert.failNotNull(Assert.java:756)
+       org.junit.Assert.assertNull(Assert.java:738)
+       org.junit.Assert.assertNull(Assert.java:748)
+       original.MakePalindrome_95_1Test.testMakePalindrome_noPalindrome(MakePalindrome_95_1Test.java:35)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+       java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+       java.base/java.lang.reflect.Method.invoke(Method.java:566)
+       org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+       [...]
+  JUnit Vintage:MakePalindrome_95_1Test:testMakePalindrome_oddLengthString
+    MethodSource [className = 'original.MakePalindrome_95_1Test', methodName = 'testMakePalindrome_oddLengthString', methodParameterTypes = '']
+    => org.junit.ComparisonFailure: expected:<abcde[e]dcba> but was:<abcde[]dcba>
+       org.junit.Assert.assertEquals(Assert.java:117)
+       org.junit.Assert.assertEquals(Assert.java:146)
+       original.MakePalindrome_95_1Test.testMakePalindrome_oddLengthString(MakePalindrome_95_1Test.java:29)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+       java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+       java.base/java.lang.reflect.Method.invoke(Method.java:566)
+       org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+       org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+       org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+       [...]
+
+Test run finished after 59 ms
+[         4 containers found      ]
+[         0 containers skipped    ]
+[         4 containers started    ]
+[         0 containers aborted    ]
+[         4 containers successful ]
+[         0 containers failed     ]
+[         5 tests found           ]
+[         0 tests skipped         ]
+[         5 tests started         ]
+[         0 tests aborted         ]
+[         2 tests successful      ]
+[         3 tests failed          ]
+

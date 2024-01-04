@@ -1,0 +1,45 @@
+
+Failures (2):
+  JUnit Vintage:EvenOddPalindrome_90_1Test:testEvenOddPalindromeWithLargeNumber
+    MethodSource [className = 'original.EvenOddPalindrome_90_1Test', methodName = 'testEvenOddPalindromeWithLargeNumber', methodParameterTypes = '']
+    => java.lang.AssertionError: expected:<55> but was:<60>
+       org.junit.Assert.fail(Assert.java:89)
+       org.junit.Assert.failNotEquals(Assert.java:835)
+       org.junit.Assert.assertEquals(Assert.java:647)
+       org.junit.Assert.assertEquals(Assert.java:633)
+       original.EvenOddPalindrome_90_1Test.testEvenOddPalindromeWithLargeNumber(EvenOddPalindrome_90_1Test.java:35)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+       java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+       java.base/java.lang.reflect.Method.invoke(Method.java:566)
+       org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+       [...]
+  JUnit Vintage:EvenOddPalindrome_90_1Test:testEvenOddPalindromeWithZero
+    MethodSource [className = 'original.EvenOddPalindrome_90_1Test', methodName = 'testEvenOddPalindromeWithZero', methodParameterTypes = '']
+    => java.lang.AssertionError: expected:<1> but was:<0>
+       org.junit.Assert.fail(Assert.java:89)
+       org.junit.Assert.failNotEquals(Assert.java:835)
+       org.junit.Assert.assertEquals(Assert.java:647)
+       org.junit.Assert.assertEquals(Assert.java:633)
+       original.EvenOddPalindrome_90_1Test.testEvenOddPalindromeWithZero(EvenOddPalindrome_90_1Test.java:20)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+       java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+       java.base/java.lang.reflect.Method.invoke(Method.java:566)
+       org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+       [...]
+
+Test run finished after 45 ms
+[         4 containers found      ]
+[         0 containers skipped    ]
+[         4 containers started    ]
+[         0 containers aborted    ]
+[         4 containers successful ]
+[         0 containers failed     ]
+[         4 tests found           ]
+[         0 tests skipped         ]
+[         4 tests started         ]
+[         0 tests aborted         ]
+[         2 tests successful      ]
+[         2 tests failed          ]
+

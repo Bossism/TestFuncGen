@@ -1,0 +1,25 @@
+
+Failures (1):
+  JUnit Vintage:SpecialFactorial_123_1Test:testSpecialFactorialWithNegativeNumber
+    MethodSource [className = 'original.SpecialFactorial_123_1Test', methodName = 'testSpecialFactorialWithNegativeNumber', methodParameterTypes = '']
+    => java.lang.AssertionError: Expected exception: java.lang.IllegalArgumentException
+       org.junit.internal.runners.statements.ExpectException.evaluate(ExpectException.java:34)
+       org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:299)
+       org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:293)
+       java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+       java.base/java.lang.Thread.run(Thread.java:829)
+
+Test run finished after 54 ms
+[         4 containers found      ]
+[         0 containers skipped    ]
+[         4 containers started    ]
+[         0 containers aborted    ]
+[         4 containers successful ]
+[         0 containers failed     ]
+[         4 tests found           ]
+[         0 tests skipped         ]
+[         4 tests started         ]
+[         0 tests aborted         ]
+[         3 tests successful      ]
+[         1 tests failed          ]
+

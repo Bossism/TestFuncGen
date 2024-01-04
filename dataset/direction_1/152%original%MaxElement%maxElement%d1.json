@@ -1,0 +1,1 @@
+{"focal_method": "maxElement", "class_name": "MaxElement", "information": "package original;\n\nimport java.util.List;\nclass MaxElement{\npublic static int maxElement(List<Integer> l) {\n        int max = Integer.MIN_VALUE;\n        for (Integer i : l) {\n            if (i > max) {\n                max = i;\n            }\n        }\n        return max;\n    }\n\n}"}

@@ -1,0 +1,1 @@
+{"focal_method": "xOrY", "class_name": "XOrY", "information": "package original;\n\nclass XOrY{\npublic static int xOrY(int n, int x, int y) {\n        if (n == 1) {\n            return y;\n        }\n        for (int i = 2; i < n; i++) {\n            if (n % i == 0) {\n                return y;\n            }\n        }\n        return x;\n    }\n\n}"}

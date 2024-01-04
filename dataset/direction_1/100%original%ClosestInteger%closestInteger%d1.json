@@ -1,0 +1,1 @@
+{"focal_method": "closestInteger", "class_name": "ClosestInteger", "information": "package original;\n\nclass ClosestInteger{\npublic static int closestInteger(String value) {\n        double d = Double.parseDouble(value);\n        if (d > 0) {\n            return (int) Math.floor(d + 0.5);\n        } else {\n            return (int) Math.ceil(d - 0.5);\n        }\n    }\n\n}"}

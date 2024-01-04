@@ -1,0 +1,1 @@
+{"c_deps": {}, "m_deps": {}, "full_fm": "package original;\n\n\nclass TruncateNumber{\npublic static Double truncateNumber(Double number) {\n        // return number - Math.floor(number);\n        return Math.round((number - Math.floor(number)) * 1000.0) / 1000.0;\n    }\n}", "focal_method": "public static Double truncateNumber(Double number)", "class_name": "TruncateNumber"}

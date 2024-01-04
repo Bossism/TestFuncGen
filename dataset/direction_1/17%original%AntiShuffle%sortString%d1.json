@@ -1,0 +1,1 @@
+{"focal_method": "sortString", "class_name": "AntiShuffle", "information": "package original;\n\nimport java.util.Arrays;\nclass AntiShuffle{\nprivate static String sortString(String s) {\n        char[] chars = s.toCharArray();\n        Arrays.sort(chars);\n        return new String(chars);\n    }\npublic static String antiShuffle(String s)\n}"}

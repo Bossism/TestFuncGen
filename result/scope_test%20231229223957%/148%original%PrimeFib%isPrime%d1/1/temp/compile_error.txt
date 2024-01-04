@@ -1,0 +1,37 @@
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/148%original%PrimeFib%isPrime%d1/1/temp/PrimeFib_148_1Test.java:10: error: isPrime(int) has private access in PrimeFib
+        assertFalse(PrimeFib.isPrime(0));
+                            ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/148%original%PrimeFib%isPrime%d1/1/temp/PrimeFib_148_1Test.java:11: error: isPrime(int) has private access in PrimeFib
+        assertFalse(PrimeFib.isPrime(1));
+                            ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/148%original%PrimeFib%isPrime%d1/1/temp/PrimeFib_148_1Test.java:12: error: isPrime(int) has private access in PrimeFib
+        assertTrue(PrimeFib.isPrime(2));
+                           ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/148%original%PrimeFib%isPrime%d1/1/temp/PrimeFib_148_1Test.java:13: error: isPrime(int) has private access in PrimeFib
+        assertTrue(PrimeFib.isPrime(3));
+                           ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/148%original%PrimeFib%isPrime%d1/1/temp/PrimeFib_148_1Test.java:14: error: isPrime(int) has private access in PrimeFib
+        assertFalse(PrimeFib.isPrime(4));
+                            ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/148%original%PrimeFib%isPrime%d1/1/temp/PrimeFib_148_1Test.java:15: error: isPrime(int) has private access in PrimeFib
+        assertTrue(PrimeFib.isPrime(5));
+                           ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/148%original%PrimeFib%isPrime%d1/1/temp/PrimeFib_148_1Test.java:16: error: isPrime(int) has private access in PrimeFib
+        assertFalse(PrimeFib.isPrime(6));
+                            ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/148%original%PrimeFib%isPrime%d1/1/temp/PrimeFib_148_1Test.java:17: error: isPrime(int) has private access in PrimeFib
+        assertTrue(PrimeFib.isPrime(7));
+                           ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/148%original%PrimeFib%isPrime%d1/1/temp/PrimeFib_148_1Test.java:18: error: isPrime(int) has private access in PrimeFib
+        assertFalse(PrimeFib.isPrime(8));
+                            ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/148%original%PrimeFib%isPrime%d1/1/temp/PrimeFib_148_1Test.java:19: error: isPrime(int) has private access in PrimeFib
+        assertFalse(PrimeFib.isPrime(9));
+                            ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/148%original%PrimeFib%isPrime%d1/1/temp/PrimeFib_148_1Test.java:20: error: isPrime(int) has private access in PrimeFib
+        assertFalse(PrimeFib.isPrime(10));
+                            ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/148%original%PrimeFib%isPrime%d1/1/temp/PrimeFib_148_1Test.java:21: error: isPrime(int) has private access in PrimeFib
+        assertTrue(PrimeFib.isPrime(11));
+                           ^
+12 errors

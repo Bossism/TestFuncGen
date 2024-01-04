@@ -1,0 +1,16 @@
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231224102924%/91%original%EvenOddPalindrome%isPalindrome%d1/1/temp/EvenOddPalindrome_91_1Test.java:12: error: isPalindrome(int) has private access in EvenOddPalindrome
+        assertTrue(EvenOddPalindrome.isPalindrome(121));
+                                    ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231224102924%/91%original%EvenOddPalindrome%isPalindrome%d1/1/temp/EvenOddPalindrome_91_1Test.java:13: error: isPalindrome(int) has private access in EvenOddPalindrome
+        assertTrue(EvenOddPalindrome.isPalindrome(12321));
+                                    ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231224102924%/91%original%EvenOddPalindrome%isPalindrome%d1/1/temp/EvenOddPalindrome_91_1Test.java:14: error: isPalindrome(int) has private access in EvenOddPalindrome
+        assertTrue(EvenOddPalindrome.isPalindrome(1234321));
+                                    ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231224102924%/91%original%EvenOddPalindrome%isPalindrome%d1/1/temp/EvenOddPalindrome_91_1Test.java:15: error: isPalindrome(int) has private access in EvenOddPalindrome
+        assertFalse(EvenOddPalindrome.isPalindrome(12345));
+                                     ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231224102924%/91%original%EvenOddPalindrome%isPalindrome%d1/1/temp/EvenOddPalindrome_91_1Test.java:16: error: isPalindrome(int) has private access in EvenOddPalindrome
+        assertFalse(EvenOddPalindrome.isPalindrome(123456));
+                                     ^
+5 errors

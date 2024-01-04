@@ -1,0 +1,1 @@
+{"c_deps": {}, "m_deps": {}, "full_fm": "package original;\n\n\nclass GreatestCommonDivisor{\npublic static int greatestCommonDivisor(int a, int b) {\n        if (a == 0) {\n            return b;\n        }\n        return greatestCommonDivisor(b % a, a);\n    }\n}", "focal_method": "public static int greatestCommonDivisor(int a, int b)", "class_name": "GreatestCommonDivisor"}

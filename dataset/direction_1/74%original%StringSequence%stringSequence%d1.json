@@ -1,0 +1,1 @@
+{"focal_method": "stringSequence", "class_name": "StringSequence", "information": "package original;\n\nclass StringSequence{\npublic static String stringSequence(int n) {\n        String result = \"\";\n        for (int i = 0; i <= n; i++) {\n            result += i + \" \";\n        }\n        return result.trim();\n    }\n\n}"}

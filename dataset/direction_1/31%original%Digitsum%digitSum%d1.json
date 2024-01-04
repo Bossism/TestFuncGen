@@ -1,0 +1,1 @@
+{"focal_method": "digitSum", "class_name": "Digitsum", "information": "package original;\n\nclass Digitsum{\npublic static int digitSum(String s) {\n        int sum = 0;\n        for (int i = 0; i < s.length(); i++) {\n            char c = s.charAt(i);\n            if (c >= 'A' && c <= 'Z') {\n                sum += c;\n            }\n        }\n        return sum;\n    }\n\n}"}

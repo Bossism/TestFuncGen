@@ -1,0 +1,4 @@
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231224102924%/53%original%FilterByPrefix%filterByPrefix%d1/1/temp/FilterByPrefix_53_1Test.java:2: error: class, interface, or enum expected
+package test;
+^
+1 error

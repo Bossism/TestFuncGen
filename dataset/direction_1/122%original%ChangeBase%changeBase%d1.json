@@ -1,0 +1,1 @@
+{"focal_method": "changeBase", "class_name": "ChangeBase", "information": "package original;\n\nclass ChangeBase{\npublic static String changeBase(int x, int base) {\n        String result = \"\";\n        while (x > 0) {\n            result = (x % base) + result;\n            x = x / base;\n        }\n        return result;\n    }\n\n}"}

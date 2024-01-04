@@ -1,0 +1,6 @@
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231224100637%/155%original%GetClosestVowel%getClosestVowel%d1/1/temp/GetClosestVowel_155_1Test.java:23: error: cannot find symbol
+        when(getClosestVowel.getVowels()).thenReturn(vowels);
+                            ^
+  symbol:   method getVowels()
+  location: variable getClosestVowel of type GetClosestVowel
+1 error

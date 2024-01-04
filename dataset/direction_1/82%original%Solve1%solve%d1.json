@@ -1,0 +1,1 @@
+{"focal_method": "solve", "class_name": "Solve1", "information": "package original;\n\nclass Solve1{\npublic static String solve(int n) {\n        int sum = 0;\n        while (n > 0) {\n            sum += n % 10;\n            n /= 10;\n        }\n        return Integer.toBinaryString(sum);\n    }\n\n}"}

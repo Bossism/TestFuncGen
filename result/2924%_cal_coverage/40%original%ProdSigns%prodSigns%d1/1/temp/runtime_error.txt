@@ -1,0 +1,73 @@
+
+Failures (4):
+  JUnit Vintage:ProdSigns_40_1Test:testProdSigns_nonIntegerValues
+    MethodSource [className = 'original.ProdSigns_40_1Test', methodName = 'testProdSigns_nonIntegerValues', methodParameterTypes = '']
+    => java.lang.AssertionError: expected null, but was:<8>
+       org.junit.Assert.fail(Assert.java:89)
+       org.junit.Assert.failNotNull(Assert.java:756)
+       org.junit.Assert.assertNull(Assert.java:738)
+       org.junit.Assert.assertNull(Assert.java:748)
+       original.ProdSigns_40_1Test.testProdSigns_nonIntegerValues(ProdSigns_40_1Test.java:51)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+       java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+       java.base/java.lang.reflect.Method.invoke(Method.java:566)
+       org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+       [...]
+  JUnit Vintage:ProdSigns_40_1Test:testProdSigns_mixedNumbers
+    MethodSource [className = 'original.ProdSigns_40_1Test', methodName = 'testProdSigns_mixedNumbers', methodParameterTypes = '']
+    => java.lang.AssertionError: expected:<-48> but was:<12>
+       org.junit.Assert.fail(Assert.java:89)
+       org.junit.Assert.failNotEquals(Assert.java:835)
+       org.junit.Assert.assertEquals(Assert.java:120)
+       org.junit.Assert.assertEquals(Assert.java:146)
+       original.ProdSigns_40_1Test.testProdSigns_mixedNumbers(ProdSigns_40_1Test.java:37)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+       java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+       java.base/java.lang.reflect.Method.invoke(Method.java:566)
+       org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+       [...]
+  JUnit Vintage:ProdSigns_40_1Test:testProdSigns_positiveNumbers
+    MethodSource [className = 'original.ProdSigns_40_1Test', methodName = 'testProdSigns_positiveNumbers', methodParameterTypes = '']
+    => java.lang.AssertionError: expected:<48> but was:<12>
+       org.junit.Assert.fail(Assert.java:89)
+       org.junit.Assert.failNotEquals(Assert.java:835)
+       org.junit.Assert.assertEquals(Assert.java:120)
+       org.junit.Assert.assertEquals(Assert.java:146)
+       original.ProdSigns_40_1Test.testProdSigns_positiveNumbers(ProdSigns_40_1Test.java:23)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+       java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+       java.base/java.lang.reflect.Method.invoke(Method.java:566)
+       org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+       [...]
+  JUnit Vintage:ProdSigns_40_1Test:testProdSigns_negativeNumbers
+    MethodSource [className = 'original.ProdSigns_40_1Test', methodName = 'testProdSigns_negativeNumbers', methodParameterTypes = '']
+    => java.lang.AssertionError: expected:<-48> but was:<-12>
+       org.junit.Assert.fail(Assert.java:89)
+       org.junit.Assert.failNotEquals(Assert.java:835)
+       org.junit.Assert.assertEquals(Assert.java:120)
+       org.junit.Assert.assertEquals(Assert.java:146)
+       original.ProdSigns_40_1Test.testProdSigns_negativeNumbers(ProdSigns_40_1Test.java:30)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+       java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+       java.base/java.lang.reflect.Method.invoke(Method.java:566)
+       org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+       [...]
+
+Test run finished after 45 ms
+[         4 containers found      ]
+[         0 containers skipped    ]
+[         4 containers started    ]
+[         0 containers aborted    ]
+[         4 containers successful ]
+[         0 containers failed     ]
+[         6 tests found           ]
+[         0 tests skipped         ]
+[         6 tests started         ]
+[         0 tests aborted         ]
+[         2 tests successful      ]
+[         4 tests failed          ]
+

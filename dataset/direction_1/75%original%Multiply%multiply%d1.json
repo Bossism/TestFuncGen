@@ -1,0 +1,1 @@
+{"focal_method": "multiply", "class_name": "Multiply", "information": "package original;\n\nclass Multiply{\npublic static int multiply(int a, int b) {\n        if (a < 0) a = -a;\n        if (b < 0) b = -b;\n        return (a % 10) * (b % 10);\n    }\n\n}"}

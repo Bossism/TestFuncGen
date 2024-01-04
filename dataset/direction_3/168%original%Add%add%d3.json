@@ -1,0 +1,1 @@
+{"c_deps": {}, "m_deps": {}, "full_fm": "package original;\n\n\nclass Add{\npublic static int add(int x, int y) {\n        return x + y;\n    }\n}", "focal_method": "public static int add(int x, int y)", "class_name": "Add"}

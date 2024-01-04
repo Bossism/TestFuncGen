@@ -1,0 +1,45 @@
+
+Failures (2):
+  JUnit Vintage:Intersection_133_1Test:testIntersectionWithNonPrimeDifference
+    MethodSource [className = 'original.Intersection_133_1Test', methodName = 'testIntersectionWithNonPrimeDifference', methodParameterTypes = '']
+    => org.junit.ComparisonFailure: expected:<[NO]> but was:<[YES]>
+       org.junit.Assert.assertEquals(Assert.java:117)
+       org.junit.Assert.assertEquals(Assert.java:146)
+       original.Intersection_133_1Test.testIntersectionWithNonPrimeDifference(Intersection_133_1Test.java:57)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+       java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+       java.base/java.lang.reflect.Method.invoke(Method.java:566)
+       org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+       org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+       org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+       [...]
+  JUnit Vintage:Intersection_133_1Test:testIntersectionWithNegativeIntervals
+    MethodSource [className = 'original.Intersection_133_1Test', methodName = 'testIntersectionWithNegativeIntervals', methodParameterTypes = '']
+    => org.junit.ComparisonFailure: expected:<[YES]> but was:<[NO]>
+       org.junit.Assert.assertEquals(Assert.java:117)
+       org.junit.Assert.assertEquals(Assert.java:146)
+       original.Intersection_133_1Test.testIntersectionWithNegativeIntervals(Intersection_133_1Test.java:36)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+       java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+       java.base/java.lang.reflect.Method.invoke(Method.java:566)
+       org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+       org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+       org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+       [...]
+
+Test run finished after 47 ms
+[         4 containers found      ]
+[         0 containers skipped    ]
+[         4 containers started    ]
+[         0 containers aborted    ]
+[         4 containers successful ]
+[         0 containers failed     ]
+[         7 tests found           ]
+[         0 tests skipped         ]
+[         7 tests started         ]
+[         0 tests aborted         ]
+[         5 tests successful      ]
+[         2 tests failed          ]
+

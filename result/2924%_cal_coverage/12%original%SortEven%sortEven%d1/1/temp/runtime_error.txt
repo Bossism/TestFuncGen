@@ -1,0 +1,45 @@
+
+Failures (2):
+  JUnit Vintage:SortEven_12_1Test:testSortEven
+    MethodSource [className = 'original.SortEven_12_1Test', methodName = 'testSortEven', methodParameterTypes = '']
+    => java.lang.AssertionError: expected:<[2, 2, 4, 4, 6, 6]> but was:<[5, 2, 7, 4, 9, 6]>
+       org.junit.Assert.fail(Assert.java:89)
+       org.junit.Assert.failNotEquals(Assert.java:835)
+       org.junit.Assert.assertEquals(Assert.java:120)
+       org.junit.Assert.assertEquals(Assert.java:146)
+       original.SortEven_12_1Test.testSortEven(SortEven_12_1Test.java:19)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+       java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+       java.base/java.lang.reflect.Method.invoke(Method.java:566)
+       org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+       [...]
+  JUnit Vintage:SortEven_12_1Test:testSortEvenWithOddSizeList
+    MethodSource [className = 'original.SortEven_12_1Test', methodName = 'testSortEvenWithOddSizeList', methodParameterTypes = '']
+    => java.lang.AssertionError: expected:<[2, 2, 4, 4, 7]> but was:<[5, 2, 7, 4, 9]>
+       org.junit.Assert.fail(Assert.java:89)
+       org.junit.Assert.failNotEquals(Assert.java:835)
+       org.junit.Assert.assertEquals(Assert.java:120)
+       org.junit.Assert.assertEquals(Assert.java:146)
+       original.SortEven_12_1Test.testSortEvenWithOddSizeList(SortEven_12_1Test.java:49)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+       java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+       java.base/java.lang.reflect.Method.invoke(Method.java:566)
+       org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+       [...]
+
+Test run finished after 44 ms
+[         4 containers found      ]
+[         0 containers skipped    ]
+[         4 containers started    ]
+[         0 containers aborted    ]
+[         4 containers successful ]
+[         0 containers failed     ]
+[         4 tests found           ]
+[         0 tests skipped         ]
+[         4 tests started         ]
+[         0 tests aborted         ]
+[         2 tests successful      ]
+[         2 tests failed          ]
+

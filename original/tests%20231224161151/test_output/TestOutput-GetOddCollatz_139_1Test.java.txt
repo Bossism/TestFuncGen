@@ -1,0 +1,59 @@
+
+Failures (3):
+  JUnit Vintage:GetOddCollatz_139_1Test:testGetOddCollatzWithZeroInput
+    MethodSource [className = 'original.GetOddCollatz_139_1Test', methodName = 'testGetOddCollatzWithZeroInput', methodParameterTypes = '']
+    => org.junit.runners.model.TestTimedOutException: test timed out after 8000 milliseconds
+       app//original.GetOddCollatz.getOddCollatz(id_123.java:42)
+       app//original.GetOddCollatz_139_1Test.testGetOddCollatzWithZeroInput(GetOddCollatz_139_1Test.java:29)
+       java.base@11.0.21/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+       java.base@11.0.21/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+       java.base@11.0.21/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+       java.base@11.0.21/java.lang.reflect.Method.invoke(Method.java:566)
+       app//org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+       app//org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+       app//org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+       app//org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+       [...]
+  JUnit Vintage:GetOddCollatz_139_1Test:testGetOddCollatzWithNegativeInput
+    MethodSource [className = 'original.GetOddCollatz_139_1Test', methodName = 'testGetOddCollatzWithNegativeInput', methodParameterTypes = '']
+    => org.junit.runners.model.TestTimedOutException: test timed out after 8000 milliseconds
+       app//original.GetOddCollatz.getOddCollatz(id_123.java:44)
+       app//original.GetOddCollatz_139_1Test.testGetOddCollatzWithNegativeInput(GetOddCollatz_139_1Test.java:22)
+       java.base@11.0.21/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+       java.base@11.0.21/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+       java.base@11.0.21/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+       java.base@11.0.21/java.lang.reflect.Method.invoke(Method.java:566)
+       app//org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+       app//org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+       app//org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+       app//org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+       [...]
+  JUnit Vintage:GetOddCollatz_139_1Test:testGetOddCollatz
+    MethodSource [className = 'original.GetOddCollatz_139_1Test', methodName = 'testGetOddCollatz', methodParameterTypes = '']
+    => java.lang.AssertionError: expected:<[1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 57, 59, 61, 63, 65, 67, 69, 71, 73, 75, 77, 79, 81, 83, 85, 87, 89, 91, 93, 95, 97, 99]> but was:<[1, 5, 11, 13, 17, 19, 25, 29]>
+       org.junit.Assert.fail(Assert.java:89)
+       org.junit.Assert.failNotEquals(Assert.java:835)
+       org.junit.Assert.assertEquals(Assert.java:120)
+       org.junit.Assert.assertEquals(Assert.java:146)
+       original.GetOddCollatz_139_1Test.testGetOddCollatz(GetOddCollatz_139_1Test.java:16)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+       java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+       java.base/java.lang.reflect.Method.invoke(Method.java:566)
+       org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+       [...]
+
+Test run finished after 16045 ms
+[         4 containers found      ]
+[         0 containers skipped    ]
+[         4 containers started    ]
+[         0 containers aborted    ]
+[         4 containers successful ]
+[         0 containers failed     ]
+[         4 tests found           ]
+[         0 tests skipped         ]
+[         4 tests started         ]
+[         0 tests aborted         ]
+[         1 tests successful      ]
+[         3 tests failed          ]
+

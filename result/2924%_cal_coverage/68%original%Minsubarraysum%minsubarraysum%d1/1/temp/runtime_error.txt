@@ -1,0 +1,31 @@
+
+Failures (1):
+  JUnit Vintage:Minsubarraysum_68_1Test:testMinsubarraysumWithEmptyList
+    MethodSource [className = 'original.Minsubarraysum_68_1Test', methodName = 'testMinsubarraysumWithEmptyList', methodParameterTypes = '']
+    => java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+       java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)
+       java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)
+       java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:248)
+       java.base/java.util.Objects.checkIndex(Objects.java:372)
+       java.base/java.util.ArrayList.get(ArrayList.java:459)
+       original.Minsubarraysum.minsubarraysum(id_114.java:52)
+       original.Minsubarraysum_68_1Test.testMinsubarraysumWithEmptyList(Minsubarraysum_68_1Test.java:35)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+       java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+       java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+       [...]
+
+Test run finished after 44 ms
+[         4 containers found      ]
+[         0 containers skipped    ]
+[         4 containers started    ]
+[         0 containers aborted    ]
+[         4 containers successful ]
+[         0 containers failed     ]
+[         4 tests found           ]
+[         0 tests skipped         ]
+[         4 tests started         ]
+[         0 tests aborted         ]
+[         3 tests successful      ]
+[         1 tests failed          ]
+

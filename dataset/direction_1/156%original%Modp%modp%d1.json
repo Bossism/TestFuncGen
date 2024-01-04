@@ -1,0 +1,1 @@
+{"focal_method": "modp", "class_name": "Modp", "information": "package original;\n\nclass Modp{\npublic static int modp(int n, int p) {\n        int result = 1;\n        for (int i = 0; i < n; i++) {\n            result = (result * 2) % p;\n        }\n        return result;\n    }\n\n}"}

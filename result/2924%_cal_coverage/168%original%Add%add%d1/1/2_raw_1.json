@@ -1,0 +1,1 @@
+{"has_code": true, "source_code": "package original;\nimport org.junit.Test;\nimport static org.junit.Assert.*;\n\npublic class AddTest {\n\n    @Test\n    public void testAdd() {\n        int result = Add.add(2, 3);\n        assertEquals(5, result);\n    }\n}", "has_syntactic_error": false, "coverage_xml": true}

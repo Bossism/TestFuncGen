@@ -1,0 +1,1 @@
+{"c_deps": {}, "m_deps": {}, "full_fm": "package original;\n\nimport java.util.ArrayList;\nimport java.util.List;\nclass F{\nprivate static int factorial(int n) {\n        int result = 1;\n        for (int i = 1; i <= n; i++) {\n            result *= i;\n        }\n        return result;\n    }\n}", "focal_method": "private static int factorial(int n)", "class_name": "F"}

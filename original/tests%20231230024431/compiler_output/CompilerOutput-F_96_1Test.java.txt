@@ -1,0 +1,19 @@
+/home/minbao/PycharmProject/ChatUniTest-main/original/tests%20231230024431/test_cases/F_96_1Test.java:38: error: factorial(int) has private access in F
+        int result1 = F.factorial(2);
+                       ^
+/home/minbao/PycharmProject/ChatUniTest-main/original/tests%20231230024431/test_cases/F_96_1Test.java:43: error: factorial(int) has private access in F
+        int result2 = F.factorial(3);
+                       ^
+/home/minbao/PycharmProject/ChatUniTest-main/original/tests%20231230024431/test_cases/F_96_1Test.java:48: error: factorial(int) has private access in F
+        int result3 = F.factorial(4);
+                       ^
+/home/minbao/PycharmProject/ChatUniTest-main/original/tests%20231230024431/test_cases/F_96_1Test.java:56: error: sum(int) has private access in F
+        int result1 = F.sum(1);
+                       ^
+/home/minbao/PycharmProject/ChatUniTest-main/original/tests%20231230024431/test_cases/F_96_1Test.java:61: error: sum(int) has private access in F
+        int result2 = F.sum(2);
+                       ^
+/home/minbao/PycharmProject/ChatUniTest-main/original/tests%20231230024431/test_cases/F_96_1Test.java:66: error: sum(int) has private access in F
+        int result3 = F.sum(3);
+                       ^
+6 errors

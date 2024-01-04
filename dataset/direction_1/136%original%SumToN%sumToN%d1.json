@@ -1,0 +1,1 @@
+{"focal_method": "sumToN", "class_name": "SumToN", "information": "package original;\n\nclass SumToN{\npublic static int sumToN(int n) {\n        int sum = 0;\n        for (int i = 1; i <= n; i++) {\n            sum += i;\n        }\n        return sum;\n    }\n\n}"}

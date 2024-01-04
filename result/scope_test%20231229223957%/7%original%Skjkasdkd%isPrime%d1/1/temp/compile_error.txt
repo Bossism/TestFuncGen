@@ -1,0 +1,94 @@
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/7%original%Skjkasdkd%isPrime%d1/1/temp/Skjkasdkd_7_1Test.java:13: error: isPrime(int) has private access in Skjkasdkd
+        assertTrue(Skjkasdkd.isPrime(2));
+                            ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/7%original%Skjkasdkd%isPrime%d1/1/temp/Skjkasdkd_7_1Test.java:14: error: isPrime(int) has private access in Skjkasdkd
+        assertTrue(Skjkasdkd.isPrime(3));
+                            ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/7%original%Skjkasdkd%isPrime%d1/1/temp/Skjkasdkd_7_1Test.java:15: error: isPrime(int) has private access in Skjkasdkd
+        assertTrue(Skjkasdkd.isPrime(5));
+                            ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/7%original%Skjkasdkd%isPrime%d1/1/temp/Skjkasdkd_7_1Test.java:16: error: isPrime(int) has private access in Skjkasdkd
+        assertTrue(Skjkasdkd.isPrime(7));
+                            ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/7%original%Skjkasdkd%isPrime%d1/1/temp/Skjkasdkd_7_1Test.java:17: error: isPrime(int) has private access in Skjkasdkd
+        assertTrue(Skjkasdkd.isPrime(11));
+                            ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/7%original%Skjkasdkd%isPrime%d1/1/temp/Skjkasdkd_7_1Test.java:18: error: isPrime(int) has private access in Skjkasdkd
+        assertTrue(Skjkasdkd.isPrime(13));
+                            ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/7%original%Skjkasdkd%isPrime%d1/1/temp/Skjkasdkd_7_1Test.java:19: error: isPrime(int) has private access in Skjkasdkd
+        assertTrue(Skjkasdkd.isPrime(17));
+                            ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/7%original%Skjkasdkd%isPrime%d1/1/temp/Skjkasdkd_7_1Test.java:20: error: isPrime(int) has private access in Skjkasdkd
+        assertTrue(Skjkasdkd.isPrime(19));
+                            ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/7%original%Skjkasdkd%isPrime%d1/1/temp/Skjkasdkd_7_1Test.java:21: error: isPrime(int) has private access in Skjkasdkd
+        assertTrue(Skjkasdkd.isPrime(23));
+                            ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/7%original%Skjkasdkd%isPrime%d1/1/temp/Skjkasdkd_7_1Test.java:22: error: isPrime(int) has private access in Skjkasdkd
+        assertTrue(Skjkasdkd.isPrime(29));
+                            ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/7%original%Skjkasdkd%isPrime%d1/1/temp/Skjkasdkd_7_1Test.java:23: error: isPrime(int) has private access in Skjkasdkd
+        assertFalse(Skjkasdkd.isPrime(0));
+                             ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/7%original%Skjkasdkd%isPrime%d1/1/temp/Skjkasdkd_7_1Test.java:24: error: isPrime(int) has private access in Skjkasdkd
+        assertFalse(Skjkasdkd.isPrime(1));
+                             ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/7%original%Skjkasdkd%isPrime%d1/1/temp/Skjkasdkd_7_1Test.java:25: error: isPrime(int) has private access in Skjkasdkd
+        assertFalse(Skjkasdkd.isPrime(4));
+                             ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/7%original%Skjkasdkd%isPrime%d1/1/temp/Skjkasdkd_7_1Test.java:26: error: isPrime(int) has private access in Skjkasdkd
+        assertFalse(Skjkasdkd.isPrime(6));
+                             ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/7%original%Skjkasdkd%isPrime%d1/1/temp/Skjkasdkd_7_1Test.java:27: error: isPrime(int) has private access in Skjkasdkd
+        assertFalse(Skjkasdkd.isPrime(8));
+                             ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/7%original%Skjkasdkd%isPrime%d1/1/temp/Skjkasdkd_7_1Test.java:28: error: isPrime(int) has private access in Skjkasdkd
+        assertFalse(Skjkasdkd.isPrime(9));
+                             ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/7%original%Skjkasdkd%isPrime%d1/1/temp/Skjkasdkd_7_1Test.java:29: error: isPrime(int) has private access in Skjkasdkd
+        assertFalse(Skjkasdkd.isPrime(10));
+                             ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/7%original%Skjkasdkd%isPrime%d1/1/temp/Skjkasdkd_7_1Test.java:30: error: isPrime(int) has private access in Skjkasdkd
+        assertFalse(Skjkasdkd.isPrime(12));
+                             ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/7%original%Skjkasdkd%isPrime%d1/1/temp/Skjkasdkd_7_1Test.java:31: error: isPrime(int) has private access in Skjkasdkd
+        assertFalse(Skjkasdkd.isPrime(14));
+                             ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/7%original%Skjkasdkd%isPrime%d1/1/temp/Skjkasdkd_7_1Test.java:32: error: isPrime(int) has private access in Skjkasdkd
+        assertFalse(Skjkasdkd.isPrime(15));
+                             ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/7%original%Skjkasdkd%isPrime%d1/1/temp/Skjkasdkd_7_1Test.java:33: error: isPrime(int) has private access in Skjkasdkd
+        assertFalse(Skjkasdkd.isPrime(16));
+                             ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/7%original%Skjkasdkd%isPrime%d1/1/temp/Skjkasdkd_7_1Test.java:34: error: isPrime(int) has private access in Skjkasdkd
+        assertFalse(Skjkasdkd.isPrime(18));
+                             ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/7%original%Skjkasdkd%isPrime%d1/1/temp/Skjkasdkd_7_1Test.java:35: error: isPrime(int) has private access in Skjkasdkd
+        assertFalse(Skjkasdkd.isPrime(20));
+                             ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/7%original%Skjkasdkd%isPrime%d1/1/temp/Skjkasdkd_7_1Test.java:36: error: isPrime(int) has private access in Skjkasdkd
+        assertFalse(Skjkasdkd.isPrime(21));
+                             ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/7%original%Skjkasdkd%isPrime%d1/1/temp/Skjkasdkd_7_1Test.java:37: error: isPrime(int) has private access in Skjkasdkd
+        assertFalse(Skjkasdkd.isPrime(22));
+                             ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/7%original%Skjkasdkd%isPrime%d1/1/temp/Skjkasdkd_7_1Test.java:38: error: isPrime(int) has private access in Skjkasdkd
+        assertFalse(Skjkasdkd.isPrime(24));
+                             ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/7%original%Skjkasdkd%isPrime%d1/1/temp/Skjkasdkd_7_1Test.java:39: error: isPrime(int) has private access in Skjkasdkd
+        assertFalse(Skjkasdkd.isPrime(25));
+                             ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/7%original%Skjkasdkd%isPrime%d1/1/temp/Skjkasdkd_7_1Test.java:40: error: isPrime(int) has private access in Skjkasdkd
+        assertFalse(Skjkasdkd.isPrime(26));
+                             ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/7%original%Skjkasdkd%isPrime%d1/1/temp/Skjkasdkd_7_1Test.java:41: error: isPrime(int) has private access in Skjkasdkd
+        assertFalse(Skjkasdkd.isPrime(27));
+                             ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/7%original%Skjkasdkd%isPrime%d1/1/temp/Skjkasdkd_7_1Test.java:42: error: isPrime(int) has private access in Skjkasdkd
+        assertFalse(Skjkasdkd.isPrime(28));
+                             ^
+/home/minbao/PycharmProject/ChatUniTest-main/result/scope_test%20231229223957%/7%original%Skjkasdkd%isPrime%d1/1/temp/Skjkasdkd_7_1Test.java:43: error: isPrime(int) has private access in Skjkasdkd
+        assertFalse(Skjkasdkd.isPrime(30));
+                             ^
+31 errors

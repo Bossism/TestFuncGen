@@ -1,0 +1,1 @@
+{"c_deps": {}, "m_deps": {}, "full_fm": "package original;\n\n\nclass SpecialFactorial{\nprivate static long factorial(int n) {\n        long res = 1;\n        for (int i = 1; i <= n; i++) {\n            res *= i;\n        }\n        return res;\n    }\n}", "focal_method": "private static long factorial(int n)", "class_name": "SpecialFactorial"}
